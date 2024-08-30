@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-public abstract class Library {
+public class Library {
     private List<Book> books;
 
     public Library() {
